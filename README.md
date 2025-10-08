@@ -1,7 +1,7 @@
 # 🌙 Serenity Lua Script
 
 > **A sleek Roblox utility hub built for stability, automation, and smooth server management.**  
-> Serenity provides a modern WindUI interface with tools for server hopping, auto-reconnects, anti-AFK, and more — all wrapped in a single, configurable script.
+> Serenity provides a modern WindUI interface with tools for server hopping, auto-reconnects, anti-AFK, and more all wrapped in a single, configurable script.
 
 ---
 
@@ -49,7 +49,7 @@ This ensures Serenity loads automatically when you join the game.
 
 ---
 
-## 💬 Webhook Integration
+## 💬 Webhook Integration (Work in Progress)
 
 You can configure your Discord webhook URL inside the script, via the Webhook tab.  
 It will automatically log teleport events, reconnects, and server info.
@@ -65,7 +65,11 @@ Example webhook output:
 
 ## 📸 Preview
 
-> 
+![Serenity Preview](images/welcome.png)
+
+![Serenity Preview](images/script.png)
+
+![Serenity Preview](images/server.png)
 
 ---
 
