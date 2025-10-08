@@ -33,6 +33,9 @@ You can reset the configuration anytime through the GUI.
 ## 🚀 Usage
 
 1. **Execute the script** in your preferred Roblox executor.
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/atqraxiaa/Serenity/refs/heads/main/Serenity.lua"))()
+```
 2. Wait a few seconds for the UI to initialize.
 3. Configure your desired options in the **Config** and **Server** tabs.
 4. Serenity automatically saves your settings after each change.
@@ -41,10 +44,7 @@ You can reset the configuration anytime through the GUI.
 
 ## 🧠 Auto-Execution
 
-If your executor supports autoexec, you can add:
-```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/atqraxiaa/rblx-script/refs/heads/main/Serenity.lua"))()
-```
+If your executor supports auto-execution, you can place the script in a file and move it into your executor’s autoexec folder.  
 This ensures Serenity loads automatically when you join the game.
 
 ---
