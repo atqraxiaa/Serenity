@@ -65,7 +65,7 @@ Example webhook output:
 
 ## 📸 Preview
 
-![Serenity Preview](images/script.png)
+![Serenity Preview](main.png)
 
 ---
 
