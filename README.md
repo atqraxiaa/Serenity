@@ -71,7 +71,7 @@ Example webhook output:
 
 ## 🧑‍💻 Credits
 
-- 💜 **Developed by:** `starry_rainn`
+- 💜 **Developed by:** `allyqnts`
 - 🌀 **UI Framework:** [WindUI by Footagesus](https://github.com/Footagesus/WindUI)
 - 🌐 **Script Hosting:** GitHub
 
